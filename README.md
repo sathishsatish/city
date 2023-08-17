@@ -1,2 +1,2 @@
 # city
-place
+place : nagar
