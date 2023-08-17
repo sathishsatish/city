@@ -1,2 +1,2 @@
-# city
-place
+# city : coimbatore
+place : nagar
